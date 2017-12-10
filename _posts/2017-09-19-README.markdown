@@ -38,8 +38,9 @@ the latest changes. Pull requests are encouraged and accepted!
 Preview
 =======
 ![Xixia]({{ site.baseurl }}//assets/images/preview.png)
+
+
 ![Xixia]({{ site.baseurl }}//interclass.files.wordpress.com/2011/07/uin-suska.jpg)
-<img src="/jekyll-xixia//interclass.files.wordpress.com/2011/07/uin-suska.jpg" alt="Xixia">
 
 
 License
