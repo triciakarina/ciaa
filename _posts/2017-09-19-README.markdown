@@ -3,12 +3,15 @@ layout: post
 title:  "Read Me"
 categories: Other
 tags: Other
-author: Xixia
+author: Cia
 description: The read me page of jekyll-xixia.
 ---
 
 Jekyll Xixia
 ============
+Nama :TRICIA KARINA
+NIM : 11453201712
+
 
 * Get it from [github](https://github.com/zxixia/jekyll-xixia).
 * See the [live demo](http://xixia.info/jekyll-xixia/).
