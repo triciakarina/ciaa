@@ -38,8 +38,7 @@ the latest changes. Pull requests are encouraged and accepted!
 Preview
 =======
 ![Xixia]({{ site.baseurl }}//assets/images/preview.png)
-![Xixia]({{ site.baseurl }}//www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjk1Lyzxv7XAhXIppQKHdkCB9MQjRwIBw&url=https%3A%2F%2Finterclass.wordpress.com%2F&psig=AOvVaw3jknuBKWsIb_MaLAe_DYeh&ust=1512964558874222)
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjk1Lyzxv7XAhXIppQKHdkCB9MQjRwIBw&url=https%3A%2F%2Finterclass.wordpress.com%2F&psig=AOvVaw3jknuBKWsIb_MaLAe_DYeh&ust=1512964558874222
+![Xixia]({{ site.baseurl }}//interclass.files.wordpress.com/2011/07/uin-suska.jpg)
 
 License
 =======
