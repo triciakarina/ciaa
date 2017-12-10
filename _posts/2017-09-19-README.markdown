@@ -9,8 +9,15 @@ description: The read me page of jekyll-xixia.
 
 Jekyll Xixia
 ============
-Nama :TRICIA KARINA
-NIM : 11453201712
+
+------------- | -------------
+Nama  | : TRICIA KARINA
+NIM  | : 11453201712
+Jurusan  | : Sistem Informasi
+Fakultas  | : Sains dan Teknologi
+Universitas  | : Universitas Islam Negeri Sultan Syarif Kasim Riau
+Website  | : _http://uin-suska.ac.id/_
+             | : _http://sif.uin-suska.ac.id/_
 
 
 * Get it from [github](https://github.com/zxixia/jekyll-xixia).
